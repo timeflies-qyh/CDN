@@ -1,0 +1,99 @@
+{
+    "Type": 0,
+    "Works": [
+        {
+            "Title": "",
+            "Description": "",
+            "ImgUrl": "",
+            "Url": "",
+            "Tags": []
+        },
+        {
+            "Title": "",
+            "Description": "",
+            "ImgUrl": "",
+            "Url": "",
+            "Tags": [
+                "切片",
+                "翻唱"
+            ]
+        }
+    ],
+    "Models": [
+        {
+            "Name": "",
+            "Description": "",
+            "FaceImg": ""
+        },
+        {
+            "Name": "",
+            "Description": "",
+            "FaceImg": ""
+        }
+    ],
+    "Blogs": [
+        {
+            "Title": "",
+            "Description": "",
+            "ImgUrl": "",
+            "Url": ""
+        },
+        {
+            "Title": "",
+            "Description": "",
+            "ImgUrl": "",
+            "Url": ""
+        }
+    ],
+    "Events": [
+        {
+            "Time": "2024-09-25T10:29:35.0275799+08:00",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Time": "2024-09-25T10:29:35.027582+08:00",
+            "Title": "",
+            "Description": ""
+        }
+    ],
+    "Theme": {
+        "TitleColor": "black",
+        "BgImg": "/imgs/background.jpg"
+    },
+    "BPPE_Model": {
+        "model1.jpg": "images/model1.jpg",
+        "model2.jpg": "images/model2.jpg",
+        "model3.jpg": "images/model3.jpg",
+        "model4.jpg": "images/model4.jpg",
+        "model5.jpg": "images/model5.jpg",
+        "model6.jpg": "images/model6.jpg",
+        "largemodel1.jpg": "images/largemodel1.jpg",
+        "largemodel2.jpg": "images/largemodel2.jpg",
+        "largemodel3.jpg": "images/largemodel3.jpg",
+        "largemodel4.jpg": "images/largemodel4.jpg",
+        "largemodel5.jpg": "images/largemodel5.jpg",
+        "largemodel6.jpg": "images/largemodel6.jpg",
+        "typewrite": "\"虚拟主播\", \"VUP\", \"二次元\"",
+        "songlist": "",
+        "about": "关于文本第一段</p><p>关于文本第二段"
+    },
+    "FSPP_Model": {
+        "headtext": "一些补充说明的文本",
+        "about_lead": "关于部分：类似与标题的文本",
+        "about_text": "关于部分：主要内容",
+        "about.jpg": "img/about.jpg",
+        "text_page1": "公告文本第一段",
+        "text_page2": "公告文本第二段"
+    },
+    "PRIS_Model": {
+        "head_title": "VUP & 虚拟主播",
+        "head_contact1_key": "粉丝群",
+        "head_contact1_value": "*****",
+        "head_contact2_key": "舰长群",
+        "head_contact2_value": "*****",
+        "img1.jpg": "images/img1.jpg",
+        "about-pic.jpg": "images/about-pic.jpg",
+        "footer_text": "<h4>Looking For Address</h4><ul><li>Address: General Pvt 66, Dong Da</li><li>Hanoi, Vietnam.</li></ul>"
+    }
+}
